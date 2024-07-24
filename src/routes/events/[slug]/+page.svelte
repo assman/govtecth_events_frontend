@@ -71,7 +71,7 @@
     {toReadableEventType(data.event.event_type)} Event
   </h1>
   <div>
-    <div class="border-b border-l border-r border-gray-100 rounded-lg">
+    <div class="border border-gray-100 rounded-lg">
       <dl class="divide-y divide-gray-100">
         <div class="py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
           <dt class="text-sm font-semibold leading-6 text-gray-900">Handled</dt>
